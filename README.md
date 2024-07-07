@@ -9,9 +9,7 @@ This browser does not have telemetry, it is free, it only supports Windows but t
 ## Download
 ### Windows x82_64
 
-|Type|File Name|Link|Size|SHA-256|
+|Type|File Name|Link|Size|
 |-|-|-|-|-|
-|Setup SFX|TinyBrowserSetup.exe|NULL|105 MB|0368054015c664ca1b33dd3463ee62559a4ee56c01bc789878e9b981d772196e|
-|7-Zip Compressed Source Code|TinyBrowserSource.7z|NULL|40 KB|5af9b4df1035eb95d38fb3923e81a4a78ea6c40ccceeeafafecec86b03dea334|
-|TAR Source Code|TinyBrowserSource.tar|NULL|53 KB|c6b022c29e8f82f51e4ee424f9632e19a4b6ac1152da2cf6731b6dac6e823215
-|WIN Source Code|TinyBrowserSource.wim|NULL|106 MB|7991f4a32feaa31feff0dab736012b1c3643cbcfe386f0ee786dc3c0c6519548|
+|7-Zip Compressed Portable EXE|TinyBrowserPortable.7z|NULL|105 MB|
+|7-Zip Compressed Source Code|TinyBrowserSource.7z|NULL|41 KB|
